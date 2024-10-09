@@ -1,6 +1,6 @@
 # 💫 About Me:
-Contact: 9313410584
-Email: mihirvetal203@gmail.com
+Contact: 9313410584 /n
+Email: mihirvetal203@gmail.com /n
 Surat, Gujarat
 
 
