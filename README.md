@@ -1,7 +1,12 @@
 # 💫 About Me:
-Contact: 9313410584 <br />
-Email: mihirvetal203@gmail.com  <br />
-Surat, Gujarat
+Hello, I'm a web developer with a solid track record of creating user-friendly and visually appealing web
+applications.
+I'm a Full Stack Web Developer
+Strong familiarity with cross-browser issues and website optimization.
+Strong expertise in Ul issues and responsive Web design.
+Proficiency in code optimization for increased productivity.
+An eager learner and team player who can perform effectively under pressure. Strong interpersonal and communication skills.
+Have good technical and analytical aptitude and a proactive attitude to problem-solving at work.
 
 
 
