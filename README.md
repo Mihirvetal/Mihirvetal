@@ -1,7 +1,6 @@
 # 💫 About Me:
 Hello, I'm a web developer with a solid track record of creating user-friendly and visually appealing web
 applications.
-I'm a Full Stack Web Developer
 Strong familiarity with cross-browser issues and website optimization.
 Strong expertise in Ul issues and responsive Web design.
 Proficiency in code optimization for increased productivity.
