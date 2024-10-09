@@ -1,5 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on Full-Stack Development<br>👯 I’m looking to collaborate on LinkedIn<br>🌱 I’m currently learning Node.js<br>💬 Ask me about anything, I would be happy to help<br>⚡ Fun fact: Imagination is more important than knowledge
+Contact: 9313410584
+Email: mihirvetal203@gmail.com
+Surat, Gujarat
+
 
 
 
